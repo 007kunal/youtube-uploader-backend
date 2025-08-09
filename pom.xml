@@ -51,15 +51,6 @@
 			<version>1.43.3</version>
 		</dependency>
 
-
-
-		<!-- Spring AI (Optional - if you're using OpenAI) -->
-		<dependency>
-			<groupId>org.springframework.ai</groupId>
-			<artifactId>spring-ai-openai-spring-boot-starter</artifactId>
-			<version>0.8.1</version>
-		</dependency>
-
 		<!-- Testing -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
